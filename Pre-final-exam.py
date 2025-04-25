@@ -2,7 +2,7 @@
 
 #List of students:
 1.Labajo, James Ryan N. # dili ni consider kay dli match sa name sa nag commit.
-2.
+2.Charlie James Abejo
 3.
 4.
 5.
